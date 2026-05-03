@@ -1,5 +1,8 @@
 # 📱 No Prazo
 
+🚀 Available on Google Play:  
+👉 https://play.google.com/store/apps/details?id=com.noprazo
+
 ⚠️ This is a **showcase repository**. The source code is private and not publicly available.
 
 ---
